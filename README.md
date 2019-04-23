@@ -47,17 +47,14 @@ endpoints:
     > Press ***Reimport all Maven projects***
  * you may need to install Lombok plugin on your IntelliJ IDE.
 
-## Start Project using Command Line
-    ```
+## Start Project using Command Line    
     cd /directory/projectFolder
-    mvn spring-boot:run
-    ```
+    mvn spring-boot:run   
 
 ## Run the tests
 * Open the `src/test` folder
 * Right-click on `java` folder -> ***Run all tests**
 * you can run tests using command line `mvn test`
-
 
 ## Using the API
 `/lunch/{ingredients}`
