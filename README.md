@@ -45,6 +45,7 @@ endpoints:
 * Select ***tick automatically download source*** checkbox -> Finish 
     > If the code is not working, open the ***Maven tab***
     > Press ***Reimport all Maven projects***
+ * you may need to install Lombok plugin on your IntelliJ IDE.
 
 ## Start Project using Command Line
     ```
