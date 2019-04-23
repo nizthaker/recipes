@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lunch.recipes.controller.LunchControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.543 s - in com.lunch.recipes.controller.LunchControllerTest

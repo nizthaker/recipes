@@ -1,0 +1,10 @@
+com\lunch\recipes\config\RestTemplateConfig.class
+com\lunch\recipes\domain\RecipeResponse.class
+com\lunch\recipes\repository\IngredientRepository.class
+com\lunch\recipes\repository\RecipeRepository.class
+com\lunch\recipes\RecipesApplication.class
+com\lunch\recipes\service\LunchService.class
+com\lunch\recipes\controller\LunchController.class
+com\lunch\recipes\domain\IngredientResponse.class
+com\lunch\recipes\domain\Ingredient.class
+com\lunch\recipes\domain\Recipe.class
